@@ -1,0 +1,13 @@
+C:\Users\sofia.viarani\source\repos\minMAx\minMAx\bin\Debug\netcoreapp3.1\minMAx.exe
+C:\Users\sofia.viarani\source\repos\minMAx\minMAx\bin\Debug\netcoreapp3.1\minMAx.deps.json
+C:\Users\sofia.viarani\source\repos\minMAx\minMAx\bin\Debug\netcoreapp3.1\minMAx.runtimeconfig.json
+C:\Users\sofia.viarani\source\repos\minMAx\minMAx\bin\Debug\netcoreapp3.1\minMAx.runtimeconfig.dev.json
+C:\Users\sofia.viarani\source\repos\minMAx\minMAx\bin\Debug\netcoreapp3.1\minMAx.dll
+C:\Users\sofia.viarani\source\repos\minMAx\minMAx\bin\Debug\netcoreapp3.1\minMAx.pdb
+C:\Users\sofia.viarani\source\repos\minMAx\minMAx\obj\Debug\netcoreapp3.1\minMAx.csproj.AssemblyReference.cache
+C:\Users\sofia.viarani\source\repos\minMAx\minMAx\obj\Debug\netcoreapp3.1\minMAx.AssemblyInfoInputs.cache
+C:\Users\sofia.viarani\source\repos\minMAx\minMAx\obj\Debug\netcoreapp3.1\minMAx.AssemblyInfo.cs
+C:\Users\sofia.viarani\source\repos\minMAx\minMAx\obj\Debug\netcoreapp3.1\minMAx.csproj.CoreCompileInputs.cache
+C:\Users\sofia.viarani\source\repos\minMAx\minMAx\obj\Debug\netcoreapp3.1\minMAx.dll
+C:\Users\sofia.viarani\source\repos\minMAx\minMAx\obj\Debug\netcoreapp3.1\minMAx.pdb
+C:\Users\sofia.viarani\source\repos\minMAx\minMAx\obj\Debug\netcoreapp3.1\minMAx.genruntimeconfig.cache
